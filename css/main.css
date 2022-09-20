@@ -34,6 +34,15 @@ span.match{
 nav{
   padding: 15px 2.5%;
 }
+audio{
+  width: 100%;
+  margin: auto;
+}
+.audio{
+  max-width: 650px;
+  width: 95%;
+  margin: auto;
+}
 .uk-navbar-nav li a{
   font-size: 16px;
 }
